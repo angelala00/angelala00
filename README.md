@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently learning like a baby!
+
 <!--
 **angelala00/angelala00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
